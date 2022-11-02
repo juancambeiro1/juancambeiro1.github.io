@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<juancambeiro1015@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/juancambeiro1/
+output:
+  html_document:
+    theme: cerulean
