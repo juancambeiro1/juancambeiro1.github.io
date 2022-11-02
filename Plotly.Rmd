@@ -10,6 +10,50 @@ output:
 library(tidyverse)
 library(p8105.datasets)
 library(plotly)
-library(flexdashboard)
 ```
+
+Get instacart data.
+
+```{r}
+data("instacart")
+instacart = 
+  instacart %>% 
+  as_tibble(instacart)
+```
+
+box plot
+```{r}
+instacart %>%
+  plot_ly(
+    y = ~order_dow, color = ~department,
+    type = "box") %>%
+    layout(title = 'Day of Week of Order by Department', xaxis = list(title = 'Department'), 
+           yaxis = list(title = 'Day of Week of Order', colors = "viridis"))
+```
+
+scatter
+
+```{r}
+instacart %>% 
+  count(department) %>%
+  mutate(department = fct_reorder(department, n)) %>% 
+  plot_ly(
+    x = ~department, y = ~n,
+    type = "scatter", mode = "markers") %>%
+  layout(title = 'Number of Orders by Department', xaxis = list(title = 'Department'), 
+         yaxis = list(title = 'Number of Orders'), colors = "viridis")
+```
+bar chart
+```{r}
+instacart %>% 
+  count(aisle) %>%
+  mutate(aisle = fct_reorder(aisle, n)) %>% 
+  plot_ly(
+    x = ~aisle, y = ~n,
+    type = "bar", mode = "markers") %>%
+  layout(title = 'Number of Orders by Aisle', xaxis = list(title = 'Aisle'), 
+         yaxis = list(title = 'Number of Orders'), colors = "viridis")
+ 
+```
+
 
