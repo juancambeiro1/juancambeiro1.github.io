@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/juancambeiro1/
     - icon: fa-envelope fa-lg
       href: mailto:<juancambeiro1015@gmail.com>
     - icon: fa-github fa-lg

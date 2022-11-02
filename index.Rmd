@@ -1,23 +1,17 @@
 ---
-title: "My awesome website"
+title: "Hi, I'm Juan Camberio"
 output: 
   html_document:
     toc: true
     toc_float: true
 --- 
 
-# This is Jeff's awesome website
-
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
- Here's some text. I like the internet. I use [google](https://www.google.com/) to do data science.
-
-![](images/pumpkincat.png)
+# Introduction
+I'm a student, forecaster, and effective altruist in the NYC area. 
  
-```{r}
-library(tidyverse)
+<img src="images/me.png" style="width:75%">
 
-sample = rnorm(100)
-mean(sample)
-```
+Here's a picture of my cat, Pumpkin. She's learned that the ding at the end of a pomodoro cycle means that it's playtime. 
+<img src="images/pumpkincat.png" style="width:75%">
 
 Here's a direct link to the about page: [about](about.html)
