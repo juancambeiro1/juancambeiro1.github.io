@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Experience"
-      href: Experience.html
+    - text: "Resume"
+      href: Resume.html
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/juancambeiro1/
     - icon: fa-envelope fa-lg
