@@ -6,14 +6,18 @@ output:
     toc_float: true
 --- 
 
-# Introduction
+## Introduction
 I'm a student, forecaster, and effective altruist in the NYC area. 
  
+<center>
 <img src="images/me.png" style="width:55%">
+</center>
 
 Here's a picture of my cat, Pumpkin. She's learned that the ding at the end of a pomodoro cycle means that it's playtime. 
 
+<center>
 <img src="images/pumpkincat.png" style="width:55%">
+</center>
 
-# Flexdashboard
-Here's a direct link to the flexdashboard page I've made for P8105: [flexdashboard](flexdashboard.html)
+## Plotly plots
+Here's a direct link to a page with plotly plots I've made for P8105: [Plotly](Plotly.html)
