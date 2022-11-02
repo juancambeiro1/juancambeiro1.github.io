@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "Academic and Professional Experience"
-      href: about.html
+      href: Academic and Professional Experience.html
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/juancambeiro1/
     - icon: fa-envelope fa-lg
