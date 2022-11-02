@@ -20,4 +20,4 @@ Here's a picture of my cat, Pumpkin. She's learned that the ding at the end of a
 </center>
 
 ## Instacart dashboard
-Here's a direct link to an Instacart dashboard I've made for problem 2 for P8105: [Dashboard](Dashboard.html)
+Here's a direct link to an Instacart dashboard I've made for problem 2 of a homework for P8105: [Dashboard](Dashboard.html)
