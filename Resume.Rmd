@@ -20,7 +20,7 @@ Master of Public Health in Epidemiology, Certificate in Applied Biostatistics an
 * Regression
 * Epidemiological methods
 
-------------
+
 
 **Macaulay Honors College at Hunter College, June 2021 | GPA: 3.6**		 
 Bachelor of Arts in Biological Sciences, Cum Laude and with Departmental Honors 
@@ -33,6 +33,8 @@ Bachelor of Arts in Biological Sciences, Cum Laude and with Departmental Honors
 * Developmental biology
 * Neuroscience
 
+------------
+
 ## Awards and Scholarships
 * Columbia University Tow Doctoral Scholars Program 
 * First place in IARPA's Focus 2.0 COVID Forecasting Tournament
@@ -40,16 +42,22 @@ Bachelor of Arts in Biological Sciences, Cum Laude and with Departmental Honors
 * Full merit scholarship to Macaulay Honors College at Hunter College
 * Young Investigator Award in Department of Biological Sciences, Hunter College
 
+------------
+
 ## Experience
 *Biosecurity Fellow*, **Institute for Progress**, remote, June 2022-Present
+
 * Writing a comprehensive policy report on making the built environment more pathogen-resistant, which has involved reading dozens of research articles and interviewing subject-matter experts 
 
 *Superforecaster*, **Good Judgment Inc.**, remote, January 2021-Present
+
 * Provide hundreds of probabilistic forecasts on a wide array of subjects, with a focus on COVID and geopolitics
 
 *Biosciences Analyst*, **Metaculus**, remote, March 2020-Present
+
 * Overseeing COVID and biosecurity forecasting/modeling work 
 
 *Research Assistant*, **Bratu Lab, Hunter College**, NY, NY, April 2017-July 2021
+
 * Examined the spatiotemporal requirements of trans-acting factors and their interactions during the 	mRNA transport process in Drosophila melanogaster oocytes
 
