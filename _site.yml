@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Academic and Professional Experience"
-      href: Academic and Professional Experience.html
+    - text: "Experience"
+      href: Experience.html
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/juancambeiro1/
     - icon: fa-envelope fa-lg

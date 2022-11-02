@@ -1,5 +1,5 @@
 ---
-title: "Academic and Professional Experience"
+title: "Experience"
 output: 
   html_document:
     toc: true
@@ -34,4 +34,11 @@ Bachelor of Arts in Biological Sciences, Cum Laude and with Departmental Honors
 
 # Experience
 * *Biosecurity Fellow*, **Institute for Progress**, remote, June 2022-Present
+** Writing a comprehensive policy report on making the built environment more pathogen-resistant, which has involved reading dozens of research articles and interviewing subject-matter experts 
+* *Superforecaster*, **Good Judgment Inc.**, remote, January 2021-Present
+** Provide hundreds of probabilistic forecasts on a wide array of subjects, with a focus on COVID and geopolitics
+* *Biosciences Analyst*, **Metaculus**, remote, March 2020-Present
+** Overseeing COVID and biosecurity forecasting/modeling work 
+* *Research Assistant*, **Bratu Lab, Hunter College**, NY, NY, April 2017-July 2021
+** Examined the spatiotemporal requirements of trans-acting factors and their interactions during the 	mRNA transport process in Drosophila melanogaster oocytes
 
