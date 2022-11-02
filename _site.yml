@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "Resume"
       href: Resume.html
+    - icon: fa-brands fa-twitter
+      href: https://twitter.com/juan_cambeiro
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/juancambeiro1/
     - icon: fa-envelope fa-lg

@@ -19,5 +19,5 @@ Here's a picture of my cat, Pumpkin. She's learned that the ding at the end of a
 <img src="images/pumpkincat.png" style="width:55%">
 </center>
 
-## Plotly plots
+## Instacart dashboard
 Here's a direct link to an Instacart dashboard I've made for problem 2 for P8105: [Dashboard](Dashboard.html)
