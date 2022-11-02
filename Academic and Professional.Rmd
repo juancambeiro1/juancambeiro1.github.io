@@ -1,0 +1,26 @@
+---
+title: "Academic and Professional Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+--- 
+
+# Education
+*Columbia University Mailman School of Public Health, Expected May 2023 | GPA: 4.075*
+Master of Public Health in Epidemiology, Certificate in Applied Biostatistics and Data Science 
+* Relevant Coursework
+** SQL
+** R 
+** Categorical data analysis
+** Regression
+** Epidemiological methods
+
+*Macaulay Honors College at Hunter College, June 2021 | GPA: 3.6*		 
+Bachelor of Arts in Biological Sciences, Cum Laude and with Departmental Honors 
+* Relevant Coursework
+** Biotechnology
+** Molecular biology
+** Genetics
+** Developmental biology
+** Neuroscience
