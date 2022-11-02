@@ -1,27 +1,23 @@
 ---
-title: "Plotly"
+title: "Dashboard"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
---- 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
 
 ```{r setup, include=FALSE}
+library(flexdashboard)
 library(tidyverse)
 library(p8105.datasets)
 library(plotly)
 ```
 
-Get instacart data.
+Column {data-width=650}
+-----------------------------------------------------------------------
 
-```{r}
-data("instacart")
-instacart = 
-  instacart %>% 
-  as_tibble(instacart)
-```
+### Box plot: Day of Week of Order by Department
 
-box plot
 ```{r}
 instacart %>%
   plot_ly(
@@ -31,7 +27,10 @@ instacart %>%
            yaxis = list(title = 'Day of Week of Order', colors = "viridis"))
 ```
 
-scatter
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Scatter plot: Number of Orders by Department
 
 ```{r}
 instacart %>% 
@@ -43,7 +42,9 @@ instacart %>%
   layout(title = 'Number of Orders by Department', xaxis = list(title = 'Department'), 
          yaxis = list(title = 'Number of Orders'), colors = "viridis")
 ```
-bar plot
+
+### Bar plot: Number of Orders by Aisle
+
 ```{r}
 instacart %>% 
   count(aisle) %>%
@@ -54,5 +55,4 @@ instacart %>%
   layout(title = 'Number of Orders by Aisle', xaxis = list(title = 'Aisle'), 
          yaxis = list(title = 'Number of Orders'), colors = "viridis")
 ```
-
 

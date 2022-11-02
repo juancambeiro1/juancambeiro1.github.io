@@ -20,4 +20,4 @@ Here's a picture of my cat, Pumpkin. She's learned that the ding at the end of a
 </center>
 
 ## Plotly plots
-Here's a direct link to a page with plotly plots I've made for P8105: [Plotly](Plotly.html)
+Here's a direct link to an Instacart dashboard I've made for problem 2 for P8105: [Dashboard](Dashboard.html)
