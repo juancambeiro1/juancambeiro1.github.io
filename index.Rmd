@@ -9,9 +9,11 @@ output:
 # Introduction
 I'm a student, forecaster, and effective altruist in the NYC area. 
  
-<img src="images/me.png" style="width:75%">
+<img src="images/me.png" style="width:55%">
 
 Here's a picture of my cat, Pumpkin. She's learned that the ding at the end of a pomodoro cycle means that it's playtime. 
-<img src="images/pumpkincat.png" style="width:75%">
 
-Here's a direct link to the about page: [about](about.html)
+<img src="images/pumpkincat.png" style="width:55%">
+
+# Flexdashboard
+Here's a direct link to the flexdashboard page I've made for P8105: [flexdashboard](flexdashboard.html)
